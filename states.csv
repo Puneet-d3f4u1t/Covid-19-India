@@ -5,8 +5,8 @@ Date,State,Confirmed,Recovered,Deceased,Other,Tested,Active
 ,India,2,0,0,0,,2
 ,Kerala,3,0,0,0,,3
 ,India,3,0,0,0,,3
-14-02-2020,Kerala,3,3,0,0,,0
-14-02-2020,India,3,3,0,0,,0
+,Kerala,3,3,0,0,,0
+,India,3,3,0,0,,0
 ,Delhi,1,0,0,0,,1
 ,Kerala,3,3,0,0,,0
 ,Telangana,1,0,0,0,,1
