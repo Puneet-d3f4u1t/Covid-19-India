@@ -1,4 +1,4 @@
-Date,State,Confirmed,Recovered,Deceased,Other,Tested,Active
+date,State,Confirmed,Recovered,Deceased,Other,Tested,Active
 30-01-2020,Kerala,1,0,0,0,,1
 30-01-2020,India,1,0,0,0,,1
 ,Kerala,2,0,0,0,,2
